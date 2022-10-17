@@ -1,0 +1,9 @@
+
+Deux projets : Circular Buffer et Digital Wheel
+Makefile : capable de compiler et générer les exécutables de deux projets
+le dossier BinApp: vous trouverez les deux exe dwApp et cbApp
+le dossier BinApp/obj : contiendera les fichiers objets
+
+Pour compiler et générer les exe: vous tapez la commande make à la racine du projet
+
+Le projet Circular Buffer est non terminé: à vous d'implémente la couch infrastructure etc....
